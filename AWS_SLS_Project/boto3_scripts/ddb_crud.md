@@ -1,4 +1,8 @@
+# Tutorial 
 
+- https://github.com/alexdebrie/dynamodb-instagram
+- https://www.youtube.com/watch?v=Q6-qWdsa8a4
+- A complete, practice-ready Amazon DynamoDB single-table design covers core NoSQL concepts: Partition Key (PK), Sort Key (SK), composite primary keys, Global/Local Secondary Indexes (GSI/LSI), and overloaded entities (Users, Orders, Products)
 
 ```python
 import json
